@@ -1,5 +1,3 @@
-# BHARAT_INTERN_WD_02
-
 # Weather App
 
 This project is a simple web page that fetches weather data from a weather API based on the user's location or a user-inputted location. It provides real-time weather information and a forecast for the next few days.
